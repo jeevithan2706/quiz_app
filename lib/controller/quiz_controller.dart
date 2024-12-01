@@ -1,6 +1,6 @@
 
 import 'package:get/get.dart';
-import 'package:quiz_app/models/quiz_model.dart';
+import 'package:quiz/models/quiz_model.dart';
 import 'dart:async';
 
 class QuizController extends GetxController {
